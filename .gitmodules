@@ -1,0 +1,6 @@
+[submodule "duoasl"]
+	path = duoasl
+	url = git@github.com:jasonz23/duoasl.git
+[submodule "duoasl-backend"]
+	path = duoasl-backend
+	url = git@github.com:aftahiArdi/duoasl-backend.git
